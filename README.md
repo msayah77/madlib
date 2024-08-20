@@ -1,8 +1,23 @@
 # Name: [Mohammad]
 # Project Name: [MADLIB]
 # Date: [8/19/2024]
+
 # Descripiton: 
 [Building a classic word game: (Mad - Lib) to the words are used to replace words in a story]
+
+# user input
+name = input("What is your name? ")
+#Read name
+time1 = input("Give me a time: ")
+#Read time1
+time2 = input("Give me another time: ")
+#user will Read time2 
+pronoun = input("Give me a pronoun: ")
+noun1 = input("Give me a noun: ")
+#read noun1
+noun2 = input("Give me a noun: ")
+verb = input("Give me a (Past Tense) verb:")
+
 # actual sentence
 My name is Mohamad. I woke up at 7am to go to school, but schools starts at 9am. \ My mom was waking me up. So I decided to go get ready! and she helped me to found my favourite outfit- a dressy pants \ and a hoodie jacket. Then it was time for me to eat my breakfast which is a salad. I then drove to school."
 
