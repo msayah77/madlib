@@ -1,3 +1,5 @@
+Begin
+
 # Name: [Mohammad]
 # Project Name: [MADLIB]
 # Date: [8/19/2024]
@@ -26,3 +28,5 @@ madlib = f"Hi! My name is {name}. I woke up at {time1} to go to school, but scho
 
 
 # print(madlib)
+
+End
